@@ -1,0 +1,3 @@
+For this challenge use msfvenome to backdoor the putty windows executable. 
+Kali comes with a windows emulator called wine, use it! Most "up to date"
+windows boxes will throw a virus detected warning.
